@@ -1,0 +1,51 @@
+
+.m1{
+    width: 408px;
+height: 201px;
+color: #344054;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+}
+
+.m2{
+
+    width: 408px;
+    height: 201px;
+    color: rgba(102, 112, 133, 0.80);
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
+.m3{
+    width: 239px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    opacity: 0.5;
+    background: #FFF;
+    backdrop-filter: blur(2px);
+ }
+
+
+.m5{
+    margin: auto;
+    width: 527px;
+    height: 576px;
+    border-radius: 24px;
+    float: right;
+    background: lightgray 50% / cover no-repeat;
+ }
+
+
+ button {
+    width: 239px;
+height: 33px;
+border-radius: 4px;
+background: #5429FF;
+ }
+
