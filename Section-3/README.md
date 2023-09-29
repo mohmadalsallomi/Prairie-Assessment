@@ -15,3 +15,5 @@ Expected Output:
 Enter a number, please.
 input: 30
 Output: 2 3 5 7 11 13 17 19 23 29 
+
+
