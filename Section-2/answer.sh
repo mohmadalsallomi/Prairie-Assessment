@@ -1,0 +1,1 @@
+here i was have propleme with sql prowzer
